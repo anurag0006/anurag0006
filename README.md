@@ -1,7 +1,7 @@
-<img src="https://github.com/anurag0006/anurag0006/blob/main/LOGO.png" width="1000" height="550"> 
 <h1 align="center">Hi 👋, I'm ANURAG KAMBOJ</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="270" Width="450"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag0006&label=Profile%20views&color=0e75b6&style=flat" alt="anurag0006" /> </p>
 
