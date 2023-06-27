@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag0006&label=Profile%20views&color=0e75b6&style=flat" alt="anurag0006" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next Js**
 
 - 📫 How to reach me **anurag.kamboj.mat21@itbhu.ac.in**
 
-- ⚡ Fun fact **I am Hard Working, Smart as well as Funny 😅**
+- ⚡ Fun fact **Dont know what to write here 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
